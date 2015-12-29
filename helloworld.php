@@ -1,4 +1,4 @@
 <?php
 	echo "Hello World!<br>";
-	echo "Salah, Yang Bener Begini. Tambah Line<br>";
+	echo "Seharusnya jangan tambah line dulu ya<br>";
 ?>
